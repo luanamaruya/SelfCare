@@ -59,6 +59,12 @@ Tal interação possibilitará a criação, listagem, alteração e até mesmo e
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Spring Framework](https://spring.io/)
+- [Thymeleaf](https://www.thymeleaf.org/)
+- [Maven](https://maven.apache.org/)
+- [Lombok](https://projectlombok.org/)
+- [JPA](https://spring.io/projects/spring-data-jpa)
+- [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
 
 ## Licença
 
