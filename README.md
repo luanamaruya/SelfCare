@@ -31,20 +31,34 @@
 
 
 
-## Sobre
-
+## Sobre 
+#### Objetivo e Escopo
+O principal objetivo da aplicação SelfCare parte da premissa de oferecer 
+ao maior número de usuários possível, um meio seguro, prático e acessível 
+para que estes possam cuidar melhor de sua saúde e bem-estar ao longo de sua vida. 
+O produto será um dispositivo semelhante a uma pulseira, nomeada 
+“CareBand”, que atuará em conjuto com um conjunto de sensore, 
+monitorando e coletando dados vitais de seu usuário. <br><br>
+Os dados coletados poderão ser utilizados pelos profissionais da saúde 
+para investigar possíveis patologias presentes no organismo do indivíduo, além de 
+possibilitar que o usuário detecte antecipadamente qualquer anormalidade ou 
+irregularidade significativa em seus sinais vitais, dessa forma, evitando o 
+agravamento de uma comorbidade ou distúrbio, aumentando as chances de sucesso 
+decorrentes do tratamento precoce do respectivo diagnóstico. 
+A aplicação SelfCare também contará com um aplicativo, inicialmente disponibilizado 
+para Android, capaz de se conectar-se via Bluetooth com o dispositivo CareBand e captar 
+as informações aferidas pelos sensores, armazenando-as de forma organizada e 
+inteligente em uma sólida base de dados, permitindo que sejam visualizadas e 
+consultadas pelo usuário de maneira intuitiva, conforme sua necessidade.
+#### Arquitetura
+#### End Points
+#### Funcionalidades
 
 ## Layout
-
-
-
 
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-
-
 
 ## Como contribuir
 
@@ -54,8 +68,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - 4) Faça push para a sua branch: `git push origin minha-feature`.
 
 Após o merge do seu pull-request for feito, você pode deletar a sua branch.
-
-
 
 ## Licença
 
