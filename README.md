@@ -23,13 +23,9 @@
   <a href="#licença">Licença</a>
 </p>
 
-
-
 <p align="center">
-  <img alt="SelfCare" src=".github/selfcare.png" width="100%">
+  <img alt="Imagem da aplicação Web SelfCare" src=".github/selfcare.png" width="100%">
 </p>
-
-
 
 ## Sobre 
 #### Objetivo e Escopo
@@ -50,7 +46,12 @@ para Android, capaz de se conectar-se via Bluetooth com o dispositivo CareBand e
 as informações aferidas pelos sensores, armazenando-as de forma organizada e 
 inteligente em uma sólida base de dados, permitindo que sejam visualizadas e 
 consultadas pelo usuário de maneira intuitiva, conforme sua necessidade.
+
 #### Arquitetura
+<p align="center">
+  <img alt="Imagem da arquitetura" src=".github/arquitetura.png" width="100%">
+</p>
+
 #### End Points
 #### Funcionalidades
 
