@@ -51,7 +51,7 @@ Tal interação possibilitará a criação, listagem, alteração e até mesmo e
 
 #### Tabela de End-Points
 <p align="center">
-  <img alt="Imagem dos endpoints da aplicação" src=".github/endpoints.png" width="60%">
+  <img alt="Imagem dos endpoints da aplicação" src=".github/endpoints.png" width="70%">
 </p>
 
 
@@ -68,4 +68,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/pedromiguelsbs/nlw_01/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/pedromiguelsbs/self-care/blob/main/LICENSE) para mais detalhes.
