@@ -45,7 +45,7 @@ consultadas pelo usuário de maneira intuitiva, conforme sua necessidade.
 #### Funcionalidades
 O Back-End será responsável pela aplicação das regras de negócio definidas, além da comunicação com o banco de dados da aplicação. <br>
 
-Por agora, a principal funcionalidade implementada na aplicação é a de comunicação com as informações dos usuários cadastrados. Através interface de programação de aplicações 'API Rest', permitindo a interação com os serviços. <br>
+Por agora, a principal funcionalidade implementada na aplicação é a de comunicação com as informações dos usuários cadastrados. Através da interface de programação de aplicações 'API Rest', permitindo a interação com os serviços. <br>
 
 Tal interação possibilitará a criação, listagem, alteração e até mesmo exclusão de informações de um usuário como: idade, peso, altura, frequência com que pratica atividades físicas, se possui comorbidades ou se está sob uso de medicações.
 
